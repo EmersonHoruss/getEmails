@@ -1,0 +1,4 @@
+There're two interfaces, one is used to register studients and teacher(moodle) and thi other is google calender in which we need to send invitations all the competitors.
+In moodle we can get data from a lot of types, such us: html, json, svs, etc.
+In google calender we just need all the competitor's email separated by comma.
+Implement a software that listen the last downloaded document in json format and it's be able to just return competitor's email in a txt format of a lot of competitor's data. Remember, after getting downloaded the program have to give a in an opened txt the required data.
